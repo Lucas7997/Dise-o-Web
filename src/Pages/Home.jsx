@@ -10,7 +10,6 @@ function Home() {
       <nav/>
       <h1>Bienvenido a la Página de Inicio</h1>
       <p>Esta es la página principal de nuestra aplicación.</p>
-      <ListaUsuarios />
       <Boton />
       <BotonDinamico />
       <Alert type="success" message="¡Operación completada con éxito!" />

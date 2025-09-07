@@ -23,7 +23,7 @@ export function BotonDinamico() {
             </button>
             <br />
             <button onClick={() => setIsDisabled(!isDisabled)} style={{ marginTop: '10px' }}>
-                Toggle Habilitar/Deshabilitar
+                Mostrar Lista / Ocultar Lista
             </button>
         </div>
     );
